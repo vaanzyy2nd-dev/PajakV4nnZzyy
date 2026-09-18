@@ -1,0 +1,7 @@
+name: PajakAnarchy
+version: 8.2-FINAL-JAVA25
+main: id.pajakanarchy.PajakAnarchy
+api-version: '1.26'
+commands:
+  pajak:
+    aliases: [pajakcek]
