@@ -1,0 +1,16 @@
+# PajakAnarchy Config JAVA25
+tax:
+  home-free: 1
+  home-price: 15000
+  warp-price: 50000
+  farm-tiers:
+    "0-1jt": 10.0
+    "1jt-10jt": 25.0
+    "10jt+": 35.0
+webhook:
+  staff: ""
+  publik: ""
+gui:
+  title: "&6&lᴘᴀᴊᴀᴋ ᴀɴᴀʀᴄʜʏ"
+  pay-name: "&a[ᴘᴀʏ]"
+  close-name: "&c[ᴄʟᴏsᴇ]"
