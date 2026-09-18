@@ -1,0 +1,25 @@
+gui:
+  title: "&#FFD700&lᴘᴀᴊᴀᴋ ᴀɴᴀʀᴄʜʏ"
+  mode: GUI
+  pay-name: "&#00FF88&l[ᴘᴀʏ]"
+  close-name: "&#FF4444&l[ᴄʟᴏsᴇ]"
+tax:
+  home-free: 1
+  home-price: 15000
+  warp-price: 50000
+  farm-tiers:
+    "200000-500000": 10
+    "500000-1000000": 15
+    "1000000-2000000": 15
+    "2000000-5000000": 17
+    "5000000-10000000": 22
+    "10000000+": 35
+  tournament-total: 800000
+  tournament-tax: 15
+penalty:
+  day1: 10
+  day2: 25
+  day3: 50
+webhook:
+  staff: ""
+  publik: ""
